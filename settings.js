@@ -8,16 +8,16 @@ global.socialm = "Telegram: t.me:DeeCee_x" //ur github or insta name
 global.location = "Nigeria, Lagos" //ur location
 
 //new
-global.botname = 'QUEEN_ANITA-V3' //ur bot name
-global.ownernumber = ' ' //ur owner number
-global.ownername = "DAVID CYRIL"  //ur owner name
+global.botname = 'Kayzer-V3' //ur bot name
+global.ownernumber = '94721059351' //ur owner number
+global.ownername = "Kayzer"  //ur owner name
 global.websitex = "http://www.youtube.com/@DavidCyril_TECH"
 global.wagc = "https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"
 global.themeemoji = '👸'
-global.wm = "DAVID CYRIL TECH"
+global.wm = "Kayzer"
 global.botscript = 'https://github.com/DeeCeeXxx/Queen_Anita-V3' //script link
 global.packname = "STICKER BY"
-global.author = "QUEEN_ANITA-V3"
+global.author = "Kayzerbot-V3"
 global.creator = "2347043759577@s.whatsapp.net"
 global.xprefix = "."
 global.premium = ["2347043759577"] // Premium User
